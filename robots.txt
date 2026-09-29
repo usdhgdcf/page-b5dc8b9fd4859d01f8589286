@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.69yv09.cn/sitemap.xml
